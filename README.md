@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielTehozol
 - 👀 I’m interested in code developing for human being
-- 🌱 I’m currently studying economy focus on finance
+- 🌱 I’m currently studying economics focus on finance
 - 📫 How to reach me: "gabrieltehozol@gmail.com"
 
 <!---
